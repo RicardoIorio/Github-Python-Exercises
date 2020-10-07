@@ -1,0 +1,4 @@
+Comienzo del texto estudiar python 
+ el jueves 
+esta linea ha sido incluida desde el exterior 
+ siempre es buen momento para estudiar pythonComienzo del textoComienzo del textoComienzo del textoomienzo del texto
